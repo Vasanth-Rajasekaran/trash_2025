@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Course Descriptions
-description: An overview of Computer Science pathway at Del Norte High School
-author: John Mortensen, Vivian Ni, Bria Gilliam
+title: Vasanth Rajasekaran
+description: AP Computer Science Principles Class of 2025
+author: Vasanth Rajasekaran
 image: /images/mario_animation.png
 hide: true
 ---
